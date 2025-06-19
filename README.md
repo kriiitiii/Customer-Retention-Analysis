@@ -57,7 +57,7 @@ Each chart is designed to highlight a specific factor affecting churn, such as c
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/customer-retention-analysis.git
+git clone https://github.com/kriiitiii/customer-retention-analysis.git
 cd customer-retention-analysis
 
 
