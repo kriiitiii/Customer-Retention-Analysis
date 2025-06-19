@@ -45,13 +45,12 @@ Each chart is designed to highlight a specific factor affecting churn, such as c
 
 **Tech Stack**
 
-- Python 3.x
+- Python 3.12
 - Jupyter Notebook
 - Pandas
 - NumPy
 - Seaborn
 - Matplotlib
-- OpenPyXL
 
 **How to Run**
 
